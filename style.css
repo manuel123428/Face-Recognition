@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+    color: black;
+}
+.heading{
+    color: rgb(0, 0, 80); 
+    background-color: yellow;
+    width: 50%;   
+}
+.name_of_object{
+    color: yellow;
+}
+#camera{
+    width: 350px;
+    height: 350px;
+}
+#result{
+    width: 350px;
+    height: 350px;
+}
